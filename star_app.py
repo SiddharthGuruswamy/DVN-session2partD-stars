@@ -251,7 +251,7 @@ m_sel = alt.param(
 
 a_sel = alt.param(
     name="a_sel",
-    value=0.66,
+    value=0.68,
     bind=alt.binding_range(
         min=-4.0,
         max=3.56,
